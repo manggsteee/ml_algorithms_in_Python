@@ -1,3 +1,3 @@
-# Machine-Learning-In-Python
-Machine learning in python
+# AI-In-Python
+AI in python
 
